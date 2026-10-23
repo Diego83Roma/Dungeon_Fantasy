@@ -1,0 +1,20 @@
+{
+  "name": "Dungeon Fantasy",
+  "short_name": "DungeonFantasy",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0d0b10",
+  "theme_color": "#d4af37",
+  "icons": [
+    {
+      "src": "icona-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icona-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
